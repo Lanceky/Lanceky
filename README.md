@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on wifi management system <br>I am looking to collaborate on React projects<br>I am looking for help with  front-end development<br>Ask me about bash <br>fun fact: Crafting sleek UIs by day, automating with Bash scripts by night—bridging the gap between frontend finesse and backend efficiency!
+Hi there!, I am Evans  <br>I am looking to collaborate on React projects<br>I am looking for help with  front-end development<br>Ask me about bash <br>fun fact: Crafting sleek UIs by day, automating with Bash scripts by night—bridging the gap between frontend finesse and backend efficiency!
 
 
 ## 🌐 Socials:
