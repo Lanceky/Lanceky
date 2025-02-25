@@ -1,5 +1,5 @@
 # 💫 About Me:
-<em>Hi there! I am Evans from Kenya.</em>  <br>I am looking to collaborate on projects<br>I am looking for help with  front-end development<br>Ask me about bash <br>fun fact: Mastering the art of finishing projects means embracing the mindset that done is better than perfect
+<em>Hi there! I am Evans from Kenya.</em>  <br>I am looking to collaborate on projects<br>I am looking for help with  front-end development<br>Ask me about bash <br>fun fact: Naming binary trees as "bifurcating arborescence" is like calling a fork a "multi-pronged food transport mechanism." Sure, you're not wrong, but calm down, Shakespeare!😄
 
 
 ## 🌐 Socials:
